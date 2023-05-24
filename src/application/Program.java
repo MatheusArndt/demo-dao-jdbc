@@ -3,8 +3,8 @@ package application;
 import java.util.Date;
 import java.util.Locale;
 
-import entities.Department;
-import entities.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 public class Program {
 
